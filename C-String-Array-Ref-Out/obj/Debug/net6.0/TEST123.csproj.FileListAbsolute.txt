@@ -1,0 +1,15 @@
+/Users/limaaliyeva/Projects/TEST123/TEST123/obj/Debug/net6.0/TEST123.csproj.AssemblyReference.cache
+/Users/limaaliyeva/Projects/TEST123/TEST123/obj/Debug/net6.0/TEST123.GeneratedMSBuildEditorConfig.editorconfig
+/Users/limaaliyeva/Projects/TEST123/TEST123/obj/Debug/net6.0/TEST123.AssemblyInfoInputs.cache
+/Users/limaaliyeva/Projects/TEST123/TEST123/obj/Debug/net6.0/TEST123.AssemblyInfo.cs
+/Users/limaaliyeva/Projects/TEST123/TEST123/obj/Debug/net6.0/TEST123.csproj.CoreCompileInputs.cache
+/Users/limaaliyeva/Projects/TEST123/TEST123/bin/Debug/net6.0/TEST123
+/Users/limaaliyeva/Projects/TEST123/TEST123/bin/Debug/net6.0/TEST123.deps.json
+/Users/limaaliyeva/Projects/TEST123/TEST123/bin/Debug/net6.0/TEST123.runtimeconfig.json
+/Users/limaaliyeva/Projects/TEST123/TEST123/bin/Debug/net6.0/TEST123.dll
+/Users/limaaliyeva/Projects/TEST123/TEST123/bin/Debug/net6.0/TEST123.pdb
+/Users/limaaliyeva/Projects/TEST123/TEST123/obj/Debug/net6.0/TEST123.dll
+/Users/limaaliyeva/Projects/TEST123/TEST123/obj/Debug/net6.0/refint/TEST123.dll
+/Users/limaaliyeva/Projects/TEST123/TEST123/obj/Debug/net6.0/TEST123.pdb
+/Users/limaaliyeva/Projects/TEST123/TEST123/obj/Debug/net6.0/TEST123.genruntimeconfig.cache
+/Users/limaaliyeva/Projects/TEST123/TEST123/obj/Debug/net6.0/ref/TEST123.dll

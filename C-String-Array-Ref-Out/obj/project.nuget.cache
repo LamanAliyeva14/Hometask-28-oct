@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eu6bREyPaqool75XXZPkL/v1pS8f+6KzNlWwQB+S2ZtmKFnZdMo60l0E5+kZsiqeRKckLeTRu1rTabOCuyJheA==",
+  "success": true,
+  "projectFilePath": "/Users/limaaliyeva/Projects/TEST123/TEST123/C-String-Array-Ref-Out.csproj",
+  "expectedPackageFiles": [
+    "/Users/limaaliyeva/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/limaaliyeva/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/limaaliyeva/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

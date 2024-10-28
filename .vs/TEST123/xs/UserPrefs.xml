@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{F9D001FA-3D9A-4BF9-8B5E-765BE147E6AF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TEST123/Program.cs">
+    <Files>
+      <File FileName="TEST123/Program.cs" Line="309" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TEST123" expanded="True">
+            <Node name="C-String-Array-Ref-Out" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.C-String-Array-Ref-Out PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
